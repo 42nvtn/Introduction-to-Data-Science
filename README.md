@@ -11,4 +11,5 @@ This repository contains all the related works for my Introduction to Data Scien
 # Group project: Exploratory Data Analysis Project
 1. Collect interrelated data, including playlists, tracks, and user profiles, from SoundCloud.
 2. Conduct a comprehensive analysis of the data, involving data preprocessing, gaining valuable insights, and creating informative data visualizations.
+
 **My part: Data collection**
